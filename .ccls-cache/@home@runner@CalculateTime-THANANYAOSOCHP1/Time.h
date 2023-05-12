@@ -5,7 +5,7 @@ using namespace std;
 void getTime(int &h,int &m)
 {
   char b; 
-  cout << "Input hour & min: ";
+  cout << "Input  hour & min: ";
   cin >> h >> b >> m;  
 }
 
